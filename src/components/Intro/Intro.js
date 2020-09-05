@@ -72,35 +72,25 @@ function Intro() {
             </div>
             <div className="flex-6" style={{ paddingTop: "30px" }}>
               <div className="job">FullStack Developer</div>
-              <div className="name">Danny TWLC</div>
-              <br />
-              <FlexBox>
-                <div className="flex-2 label">School</div>
-                <div className="flex-1">&nbsp;</div>
-                <div className="flex-6">Good School</div>
-              </FlexBox>
+              <div className="name">Park JinWoo</div>
+              <br />              
               <FlexBox style={{ marginTop: "7px" }}>
                 <div className="flex-2 label">Phone</div>
+                <div className="flex-1">&nbsp;</div>
+                <div className="flex-6">010-3952-6531</div>
+              </FlexBox>              
+              <FlexBox style={{ marginTop: "7px" }}>
+                <div className="flex-2 label">test</div>
                 <div className="flex-1">&nbsp;</div>
                 <div className="flex-6">+1 908-111-2222</div>
               </FlexBox>
               <FlexBox style={{ marginTop: "7px" }}>
-                <div className="flex-2 label">GPA</div>
-                <div className="flex-1">&nbsp;</div>
-                <div className="flex-6">4.0</div>
-              </FlexBox>
-              <FlexBox style={{ marginTop: "7px" }}>
-                <div className="flex-2 label">Phone</div>
+                <div className="flex-2 label">test</div>
                 <div className="flex-1">&nbsp;</div>
                 <div className="flex-6">+1 908-111-2222</div>
               </FlexBox>
               <FlexBox style={{ marginTop: "7px" }}>
-                <div className="flex-2 label">Phone</div>
-                <div className="flex-1">&nbsp;</div>
-                <div className="flex-6">+1 908-111-2222</div>
-              </FlexBox>
-              <FlexBox style={{ marginTop: "7px" }}>
-                <div className="flex-2 label">Phone</div>
+                <div className="flex-2 label">test</div>
                 <div className="flex-1">&nbsp;</div>
                 <div className="flex-6">+1 908-111-2222</div>
               </FlexBox>
