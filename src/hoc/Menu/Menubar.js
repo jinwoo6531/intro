@@ -31,18 +31,18 @@ function Menubar(props) {
         {
             icon: 'react',
             color: '#5CD3F3',
-            text: 'ReactJS'
+            text: 'CSS'
         },
         {
             icon: 'node',
             color: "#87BF00",
-            text: 'NodeJS'
+            text: 'JS'
         },
-        {
-            icon: 'coffee',
-            color: "#DE6800",
-            text: 'FullStack'
-        },
+        // {
+        //     icon: 'coffee',
+        //     color: "#DE6800",
+        //     text: 'FullStack'
+        // },
     ]
 
     const renderMenus = (arr) => {

@@ -4,6 +4,7 @@ import { Icon } from "semantic-ui-react";
 import { FlexBox } from "../reusuable/styles";
 
 const IntroContainer = styled.div`
+  
   position: relative;
   margin: 0 auto;
   margin-top: 40px;
@@ -34,6 +35,7 @@ const IntroContainer = styled.div`
 `;
 
 const IconsBox = styled.div`
+  
   position: absolute;
   bottom: 0;
   height: 70px;
@@ -65,6 +67,7 @@ const IconsBox = styled.div`
 
 function Intro() {
     return (
+      <>
         <IntroContainer>
               <FlexBox>
             <div className="flex-4" style={{ padding: "25px" }}>
@@ -146,6 +149,9 @@ function Intro() {
             </FlexBox>
           </IconsBox>
         </IntroContainer>
+
+</>
+        
     )
 }
 
